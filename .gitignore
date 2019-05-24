@@ -1,3 +1,4 @@
-/.ods
-/.xlsx
-/.xlsx#
+*.ods
+*.xlsx
+*.xlsx#
+*.ods#
